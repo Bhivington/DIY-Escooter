@@ -1,6 +1,5 @@
 # DIY-Escooter
-A DIY E-Scooter designed for modulartity and customization by Shiv Khatri Jason Louie and Terry Yu  
-
+A DIY E-Scooter designed for modulartity and customization by Shiv Khatri Jason Louie and Terry Yu as part of a UCR senior design project under principal investigator Dr.Ahmad Mohammadpanah Foroutaghe
 Design report will be uploaded after it is completed
 # Overview
 This project includes the files to recreate what we have done.
