@@ -2,7 +2,7 @@
 A DIY E-Scooter designed for modulartity and customization by Shiv Khatri Jason Louie and Terry Yu
 # Overview
 This project includes the files to recreate what we have done.
-The project was modeled in AutoDesk Fusion and the .f3d files contain our rendition of the scooter.
+The project was modeled in AutoDesk Fusion and fusion archive titled Final Assembly 175c.f3z is included in the repository
 This should serve as a jumping off point to create a scooter that is made to your own needs and specifications.
 Modules can be added or removed depending on your needs.
 There is a final design report in there one can find the design verification section, this section illustrates how one can make modifications and verify them to ensure saftey.
