@@ -1,8 +1,10 @@
 # DIY-Escooter
 A DIY E-Scooter designed for modulartity and customization by Shiv Khatri Jason Louie and Terry Yu as part of a UCR senior design project under principal investigator Dr.Ahmad Mohammadpanah Foroutaghe  
 
-Design report can be found at
+The Final design report can be found at
 https://docs.google.com/document/d/161jiW37B_JrqkYkJVltfunsu745c3fMzF1_8elbnEi8/edit?usp=sharing
+
+All information needed about this project is contained in this report.
 # Overview
 This project includes the files to recreate what we have done.
 The project was modeled in AutoDesk Fusion and fusion archive titled Final Assembly 175c.f3z is included in the repository. 
